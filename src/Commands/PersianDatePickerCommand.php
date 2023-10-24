@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Sajjadgol\PersianDatePicker\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class PersianDatePickerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'date-picker';
 
     public $description = 'My command';
 
